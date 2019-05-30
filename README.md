@@ -13,10 +13,15 @@
     
 ###  [如要提交代码请先看--提交合并代码规范提交者的后面都会有署名方便大家问问题](/docs/question.md)
 
-###  [记录 事务与数据源同时注解会导致切换数据源不生效问题](/docs/code-question1.md)
+### 1. 事务与数据源同时注解会导致切换数据源不生效问题
 
-###  [思考](/docs/code-question1-think.md)
+### 2.代码查询索引 注意类型 string integer 类型转换导致索引失效
 
+### 3.充分预估联调时间
+
+### 4.maven install maven deploy
+
+### 5.源码
 
 
 
